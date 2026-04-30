@@ -24,7 +24,7 @@ export default function App() {
  <div className='flex justify-center text-5xl'><Icon symbol='❤️'/></div>
  <h1 className='text-4xl md:text-6xl font-bold'>365 days wityuuuu ❤️</h1>
  <p className='text-zinc-300 text-lg'>Hiiiiii sayanggkuuuuuu... </p>
- <p className='text-zinc-300 text-lg'></p>dunno what to sayyy wkwkk, kayakkk apaya wkwkwk jd malu ih, ga kerasa ya dr yg dlu gengsian abiez hts an lama HAHA tau2 udh setaun bareng aja, makasih ya udah selalu sabar sama aku</p>
+ <p className='text-zinc-300 text-lg'>dunno what to sayyy wkwkk, kayakkk apaya wkwkwk jd malu ih, ga kerasa ya dr yg dlu gengsian abiez hts an lama HAHA tau2 udh setaun bareng aja, makasih ya udah selalu sabar sama aku</p>
  <p className='text-zinc-500 text-sm'>I LOVE YOU sayaaaaanggggg</p>
  <Button onClick={()=>setPlaying(v=>!v)} className='rounded-2xl mt-2 inline-flex items-center gap-2'>{playing?'Hide Message':'Show Message'} <Icon symbol='✨'/></Button>
  </motion.div>
