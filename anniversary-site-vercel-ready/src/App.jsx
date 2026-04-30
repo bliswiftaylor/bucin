@@ -43,6 +43,6 @@ export default function App() {
  <div className='grid md:grid-cols-2 gap-6 mt-10'>
  <Card className='bg-zinc-900/80 rounded-2xl'><CardContent className='p-6 space-y-3'><h2 className='text-2xl font-semibold'>sayaangkuuu</h2><p className='text-zinc-300'>thank u for choosing us, even on the hard days. Being with u feels easy in all the ways that matter. eaaa alay benerrrr wkwkwk, hopefully kedepannya sama2 terus ya hehehehehe,</p></CardContent></Card>
  <Card className='bg-zinc-900/80 rounded-2xl'><CardContent className='p-6 space-y-4'><h2 className='text-2xl font-semibold'>Malam Ini Mau ngapainnn???</h2><div className='grid grid-cols-2 gap-3'><Button className='rounded-2xl h-16'>🎬 Nonton</Button><Button className='rounded-2xl h-16 bg-zinc-800 text-zinc-100'>🎮 Main</Button></div>{choice && <div>{choice}</div>}</CardContent></Card>
- <Card className='bg-zinc-900/80 rounded-2xl'><CardContent className='p-6 space-y-3'><h2 className='text-2xl font-semibold'>kasihtau aku jwbnnya apa karna aku blm paham gmn send notif klo km pencet pilihannya hehe</p></CardContent></Card>
+ <Card className='bg-zinc-900/80 rounded-2xl'><CardContent className='p-6 space-y-3'><h2 className='text-2xl font-semibold'>kasihtau aku jwbnnya apa karna aku blm paham gmn send notif klo km pencet pilihannya hehe</div></CardContent></Card>
  </div></div></div>
 }
